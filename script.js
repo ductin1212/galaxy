@@ -819,7 +819,7 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "https://thanhdieu.com/music.mp3"
+   "https://www.dropbox.com/scl/fi/qltnvabg3q9hc5mlexouc/thegioiao.com.mp3?rlkey=jph8lre7ozx7k20cqaufw28g7&st=dggvnte7&raw=1"
   ];
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
