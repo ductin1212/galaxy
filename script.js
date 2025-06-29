@@ -819,8 +819,8 @@ let galaxyAudio = null;
 
 function preloadGalaxyAudio() {
   const audioSources = [
-   "thanhdieu.com/music.mp3"
-  ];
+   "AE THEM NHAC TUY NHA"
+  ];thanhdieu.com/music.mp3
 
   const randomIndex = Math.floor(Math.random() * audioSources.length);
   const selectedSrc = audioSources[randomIndex];
