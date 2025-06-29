@@ -611,10 +611,10 @@ scene.add(planet);
 
 // ---- TẠO CÁC VÒNG CHỮ QUAY QUANH HÀNH TINH ----
 const ringTexts = [
-  'Ngọc Kiều',
+  'Mèo Simi HiHi',
   "Okiiiiiiiiiiii",
   "Nguyễn Ngọc Yến Nhi",
-  "17/10/2008",
+  "22/22/2222",
   ...(window.dataCCD && window.dataCCD.data.ringTexts ? window.dataCCD.data.ringTexts : [])
 ];
 
